@@ -91,3 +91,4 @@ You should install a code editor, nodeJs and git.
 - Once filling out the form the user submits the data to the backend and it will be displayed on the screen.
 - The user can check the meetups at any time he/she wants.
 
+Link to visit Application: https://frosty-gates-d4c8d3.netlify.app
